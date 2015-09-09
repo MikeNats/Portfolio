@@ -1,23 +1,19 @@
 # Portfolio
 <br/><br/>
+
 <b><u>Solo:</u></b> <br/>
 D3 Charts Visualization App:
 https://github.com/MikeNats/ng-docs <br/>
 
-Grunt Task - ngdocs for all JavaScript frameworks:
-https://github.com/MikeNats/ng-docs  <br/>
+Grunt Task - ngdocs for all JavaScript frameworks: https://github.com/MikeNats/ng-docs  <br/>
 
-Google maps Visualizationn App (Private): 
-https://github.com/MikeNats/mapsApp <br/>
+Google maps Visualizationn App (Private): https://github.com/MikeNats/mapsApp <br/>
 
-Google Maps - CSV plug-in: 
-https://github.com/MikeNats/multipleCsvToJsonGmapMarkers<br/>
+Google Maps - CSV plug-in: https://github.com/MikeNats/multipleCsvToJsonGmapMarkers<br/>
 
-MVC Infinity carousel plug-in:
-https://github.com/MikeNats/InfinityCarousel-MVC<br/>
+MVC Infinity carousel plug-in: https://github.com/MikeNats/InfinityCarousel-MVC<br/>
 
-Repsonsive  Carousel plug-in: 
-https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/><br/>
+Repsonsive  Carousel plug-in: https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/><br/>
 
 <b><u>Barnardos: </u></b> <br/>
 http://www.barnardos.org.uk/john-lewis-hub.htm <br/>
@@ -37,9 +33,8 @@ http://www.barnardos.org.uk/messagestoourheroes.htm <br/>
 http://www.barnardos.org.uk/12-days-christmas.htm <br/>
 http://www.barnardos.org.uk/emma1.htm <br/>
 http://www.barnardos.org.uk/lucysappeal.htm <br/>
-http://www.barnardos.org.uk/welfare.htm (waitting to go live)
+http://www.barnardos.org.uk/welfare.htm (waitting to go live)<br/>
 
- <br/>
  <br/>
 <b><u>Net360: </u></b> <br/>
 http://www.webhotelmanagement.com/ <br/>
