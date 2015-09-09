@@ -1,6 +1,6 @@
 # Portfolio
 Solo: <br/>
-D3 Charts Visualization App:<br />
+D3 Charts Visualization App:
 https://github.com/MikeNats/ng-docs <br/>
 
 Grunt Task - ngdocs for all JavaScript frameworks:
@@ -10,7 +10,7 @@ Google maps Visualizationn App (Private):
 https://github.com/MikeNats/mapsApp <br/>
 
 Google Maps - CSV plug-in: 
-https://github.com/MikeNats/multipleCsvToJsonGmapMarkers<br/
+https://github.com/MikeNats/multipleCsvToJsonGmapMarkers<br/>
 
 MVC Infinity carousel plug-in:
 https://github.com/MikeNats/InfinityCarousel-MVC<br/>
