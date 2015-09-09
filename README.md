@@ -18,10 +18,6 @@ https://github.com/MikeNats/InfinityCarousel-MVC<br/>
 Repsonsive  Carousel plug-in: 
 https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/>
 
-
-
-
-  <br/>
 Barnardos: <br/>
 http://www.barnardos.org.uk/john-lewis-hub.htm <br/>
 http://www.barnardos.org.uk (top banner, popup) <br/>
