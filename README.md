@@ -13,6 +13,8 @@ Google Maps - CSV plug-in: https://github.com/MikeNats/multipleCsvToJsonGmapMark
 
 MVC Infinity carousel plug-in: https://github.com/MikeNats/InfinityCarousel-MVC<br/>
 
+Client Side Validation-Ajax Form: https://github.com/MikeNats/html5Form-clientSideValidation-AjaxDataTransmition<br/>
+
 Repsonsive  Carousel plug-in: https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/><br/>
 
 <b><u>Barnardos: </u></b> <br/>
