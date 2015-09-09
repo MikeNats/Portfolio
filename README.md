@@ -1,6 +1,6 @@
 # Portfolio
 <br/><br/>
-<b><u>Solo:</u></b> <br/><br/>
+<b><u>Solo:</u></b> <br/>
 D3 Charts Visualization App:
 https://github.com/MikeNats/ng-docs <br/>
 
@@ -19,7 +19,7 @@ https://github.com/MikeNats/InfinityCarousel-MVC<br/>
 Repsonsive  Carousel plug-in: 
 https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/><br/>
 
-<b><u>Barnardos: </u></b> <br/><br/>
+<b><u>Barnardos: </u></b> <br/>
 http://www.barnardos.org.uk/john-lewis-hub.htm <br/>
 http://www.barnardos.org.uk (top banner, popup) <br/>
 http://www.barnardos.org.uk/brunch.htm <br/>
@@ -41,7 +41,7 @@ http://www.barnardos.org.uk/welfare.htm (waitting to go live)
 
  <br/>
  <br/>
-<b><u>Net360: </u></b> <br/><br/>
+<b><u>Net360: </u></b> <br/>
 http://www.webhotelmanagement.com/ <br/>
 http://www.honeymoonpetra.com/  <br/>
 http://m.peninsula.gr/en/index.html <br/>
