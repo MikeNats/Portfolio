@@ -1,26 +1,26 @@
 # Portfolio
 Solo: <br/>
 D3 Charts Visualization App:<br />
-https://github.com/MikeNats/ng-docs <br/><br/>
+https://github.com/MikeNats/ng-docs <br/>
 
 Grunt Task - ngdocs for all JavaScript frameworks:
-https://github.com/MikeNats/ng-docs  <br/><br/>
+https://github.com/MikeNats/ng-docs  <br/>
 
 Google maps Visualizationn App (Private): 
-https://github.com/MikeNats/mapsApp <br/><br/>
+https://github.com/MikeNats/mapsApp <br/>
 
 Google Maps - CSV plug-in: 
-https://github.com/MikeNats/multipleCsvToJsonGmapMarkers<br/><br/>
+https://github.com/MikeNats/multipleCsvToJsonGmapMarkers<br/
 
 MVC Infinity carousel plug-in:
-https://github.com/MikeNats/InfinityCarousel-MVC<br/><br/>
+https://github.com/MikeNats/InfinityCarousel-MVC<br/>
 
 Repsonsive  Carousel plug-in: 
-https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/><br/>
+https://github.com/MikeNats/infinityCarouselExtendingBasicCarousel<br/>
 
 
 
- <br/>
+
   <br/>
 Barnardos: <br/>
 http://www.barnardos.org.uk/john-lewis-hub.htm <br/>
